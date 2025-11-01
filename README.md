@@ -73,3 +73,5 @@ python main.py
 
 Your web browser should automatically appear, with the app ready to be used. 
 To stop the app, simply press CTR+C on the terminal. A message of "stopping" will appear, and the app will shutdown
+
+To see the application via Streamlit cloud, go to https://fd-ragchatbot.streamlit.app/
